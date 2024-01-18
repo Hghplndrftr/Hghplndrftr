@@ -1,5 +1,7 @@
 I’m Hghplndrftr (Highplanedrifter)
+
 Unga Bunga Cheeburger
+
 I’m currently learning game development at school, and attempting to learn another language
 
 
